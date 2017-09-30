@@ -1,0 +1,15 @@
+
+<svg width="49px" height="49px" viewBox="-14029 -9380 49 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="22.5" cy="22.5" r="8.5"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="17" height="17" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="icon-geo-fence" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-14027.000000, -9378.000000)">
+        <path d="M0,26.0010027 C1.69181963,36.7646785 11.0602578,45 22.3638015,45 C27.1573054,45 31.6028074,43.5189917 35.262441,40.9922071 M40.9740562,35.3122837 C43.5124138,31.676334 45,27.2608439 45,22.5 C45,17.5435927 43.3876912,12.9614945 40.6559595,9.24362563 M34.8247616,3.71305346 C31.2507811,1.36622727 26.9678068,0 22.3638015,0 C11.4132769,0 2.27887544,7.72896191 0.180798469,17.9980934" id="outer-circle" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+        <use id="Oval-Copy-4" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="6" xlink:href="#path-1"></use>
+    </g>
+</svg>

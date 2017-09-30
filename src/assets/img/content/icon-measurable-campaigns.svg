@@ -1,0 +1,24 @@
+
+<svg width="53px" height="57px" viewBox="99 97 53 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="38" y="0" width="15" height="57" rx="6"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="57" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0" y="30" width="15" height="27" rx="6"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="27" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="19" y="10" width="15" height="47" rx="6"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="47" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="icon-measureable-campaigns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(99.000000, 97.000000)">
+        <use id="Rectangle-6" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="6" xlink:href="#path-1"></use>
+        <use id="Rectangle-6-Copy-2" stroke="#FFFFFF" mask="url(#mask-4)" stroke-width="6" xlink:href="#path-3"></use>
+        <use id="Rectangle-6-Copy" stroke="#FFFFFF" mask="url(#mask-6)" stroke-width="6" xlink:href="#path-5"></use>
+    </g>
+</svg>

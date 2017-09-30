@@ -1,0 +1,21 @@
+
+<svg width="49px" height="54px" viewBox="-13752 -9371 49 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#3D5AFE" offset="0%"></stop>
+            <stop stop-color="#18FFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#3D5AFE" offset="0%"></stop>
+            <stop stop-color="#18FFFF" offset="99.1729114%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon-media-network" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-13750.000000, -9369.000000)">
+        <path d="M11.9878158,7.60158517 C9.99153823,8.65839199 8.17338398,10.0068109 6.59009742,11.5900974 C2.51839828,15.6617966 0,21.2867966 0,27.5 C0,29.3873495 0.232379554,31.2204238 0.670087783,32.9721721 M13.0163874,47.9096404 C15.8983152,49.2510398 19.1116931,50 22.5,50 C25.8883159,50 29.1017019,49.2510358 31.9836356,47.9096297 M44.3254397,32.9900401 C44.7660373,31.2328901 45,29.3937675 45,27.5 C45,18.8787315 40.1511851,11.3899645 33.031882,7.6120255" id="Oval-6-Copy" stroke="url(#linearGradient-1)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+        <ellipse id="Oval-7-Copy-3" stroke="url(#linearGradient-2)" stroke-width="3" cx="22.5" cy="5.5" rx="5.5" ry="5.5"></ellipse>
+        <ellipse id="Oval-7-Copy-4" stroke="url(#linearGradient-2)" stroke-width="3" cx="39.5" cy="41.5" rx="5.5" ry="5.5"></ellipse>
+        <ellipse id="Oval-7-Copy-5" stroke="url(#linearGradient-2)" stroke-width="3" cx="5.5" cy="41.5" rx="5.5" ry="5.5"></ellipse>
+    </g>
+</svg>

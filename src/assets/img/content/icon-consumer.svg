@@ -1,0 +1,56 @@
+
+<svg width="51px" height="53px" viewBox="100 51 51 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#3D5AFE" offset="0%"></stop>
+            <stop stop-color="#18FFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,23.0606546 L0,45.1702721 C0,46.7444172 1.26231391,48 2.81945704,48 L28.180543,48 C29.7463685,48 31,46.7330877 31,45.1702721 L31,23.0606546 C31,16.4623489 26.8901943,10.8216486 21.0946346,8.57236978 C20.1506579,10.7289121 18.2974914,12.7360259 15.5,12.7358686 C12.7025086,12.7357112 10.8489238,10.7286189 9.90508992,8.57174032 C4.10892501,10.8200621 0,16.4594152 0,23.0606546 Z" id="path-2"></path>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="31" height="39.4282597" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.7344547%" id="linearGradient-4">
+            <stop stop-color="#3D5AFE" offset="0%"></stop>
+            <stop stop-color="#18FFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="1.58641582%" x2="50%" y2="99.1729114%" id="linearGradient-5">
+            <stop stop-color="#3D5AFE" offset="0%"></stop>
+            <stop stop-color="#18FFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,23.0606546 L0,45.1702721 C0,46.7444172 1.26231391,48 2.81945704,48 L28.180543,48 C29.7463685,48 31,46.7330877 31,45.1702721 L31,23.0606546 C31,16.4623489 26.8901943,10.8216486 21.0946346,8.57236978 C20.1506579,10.7289121 18.2974914,12.7360259 15.5,12.7358686 C12.7025086,12.7357112 10.8489238,10.7286189 9.90508992,8.57174032 C4.10892501,10.8200621 0,16.4594152 0,23.0606546 Z" id="path-6"></path>
+        <mask id="mask-7" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="31" height="39.4282597" fill="white">
+            <use xlink:href="#path-6"></use>
+        </mask>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-8">
+            <stop stop-color="#3D5AFE" offset="3.19276148%"></stop>
+            <stop stop-color="#18FFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="3.19276148%" x2="50%" y2="98.6320884%" id="linearGradient-9">
+            <stop stop-color="#3D5AFE" offset="0%"></stop>
+            <stop stop-color="#18FFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,24.5019455 L0,47.9934141 C0,49.6659433 1.34375352,51 3.00135749,51 L29.9986425,51 C31.6654891,51 33,49.6539056 33,47.9934141 L33,24.5019455 C33,17.4912457 28.6250455,11.4980017 22.4555788,9.10814289 C21.4507003,11.3994691 19.4779747,13.5320276 16.5,13.5318604 C13.5220253,13.5316931 11.5488544,11.3991576 10.544128,9.10747409 C4.37401694,11.4963159 0,17.4881287 0,24.5019455 Z" id="path-10"></path>
+        <mask id="mask-11" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="33" height="41.8925259" fill="white">
+            <use xlink:href="#path-10"></use>
+        </mask>
+    </defs>
+    <g id="icon-consumer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(100.000000, 52.000000)">
+        <g id="Group-Copy" transform="translate(0.000000, 2.000000)">
+            <use id="Combined-Shape" stroke="url(#linearGradient-1)" mask="url(#mask-3)" stroke-width="6" xlink:href="#path-2"></use>
+            <ellipse id="Oval-8" stroke="url(#linearGradient-4)" stroke-width="3" cx="15.5" cy="7.05882353" rx="7.04545455" ry="7.05882353"></ellipse>
+        </g>
+        <g id="Group-Copy-2" transform="translate(20.000000, 2.000000)">
+            <use id="Combined-Shape" stroke="url(#linearGradient-5)" mask="url(#mask-7)" stroke-width="6" xlink:href="#path-6"></use>
+            <ellipse id="Oval-8" stroke="url(#linearGradient-8)" stroke-width="3" cx="15.5" cy="7.05882353" rx="7.04545455" ry="7.05882353"></ellipse>
+        </g>
+        <path d="M37.5249023,50.6293945 L11.2157313,50.6293945 C11.2157313,50.6293945 10.9411621,51.0251465 10.9411621,44.6401367 C10.9411621,38.255127 10.7888184,24.5703125 10.7888184,24.5703125 L12.3706055,18.8837891 L13.5068359,15.0119629 L17.2648926,12.9487305 L18.6159668,11.8833008 L17.3918457,6.42382812 L20.6936035,2.0703125 L25.8781738,0.584960938 L30.4772949,2.39013672 L33.5283203,6.24316406 L33.5195313,9.48974609 L32.251709,12.1262207 L36.2873535,13.7275391 L39.9892578,19.6000977 L41.4118652,23.7270508 L40.8237305,32.5583496 L40.8752441,43.7932129 L41.2150879,49.8842773 L37.5249023,50.6293945 Z" id="Path-2" fill="#FFFFFF"></path>
+        <g id="Group-2" transform="translate(9.000000, 1.000000)">
+            <g id="Group">
+                <use id="Combined-Shape" stroke="url(#linearGradient-9)" mask="url(#mask-11)" stroke-width="6" xlink:href="#path-10"></use>
+                <circle id="Oval-8" stroke="url(#linearGradient-1)" stroke-width="3" cx="16.5" cy="7.5" r="7.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

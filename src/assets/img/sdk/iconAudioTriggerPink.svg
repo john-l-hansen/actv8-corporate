@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="42" viewBox="0 0 46 42">
+  <defs>
+    <path id="iconaudiotriggerpink-a" d="M12.2995614,12.8660479 L31,0 L31,38 L11,24.6170257 L11,15.3375876 L11,15.3375876 C11,14.3500633 11.4859929,13.4257894 12.2995614,12.8660479 Z"/>
+    <rect id="iconaudiotriggerpink-b" width="7" height="13" y="13" rx="2"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(0 2)">
+    <g stroke-linecap="round" stroke-linejoin="round">
+      <use fill="#F50057" xlink:href="#iconaudiotriggerpink-a"/>
+      <path stroke="#F50057" stroke-width="2" d="M11.7327485,12.0422013 L32,-1.90182606 L32,39.8723777 L10,25.151106 L10,15.3375876 C10,14.0208885 10.6479905,12.7885233 11.7327485,12.0422013 Z"/>
+    </g>
+    <use fill="#F50057" xlink:href="#iconaudiotriggerpink-b"/>
+    <rect width="5" height="11" x="1" y="14" stroke="#F50057" stroke-width="2" rx="2"/>
+    <path stroke="#F50057" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M39.8284271,31.3284271 C39.8284271,31.3284271 39.8284271,29.6617605 39.8284271,26.3284271" transform="scale(-1 1) rotate(45 0 -67.326)"/>
+    <path stroke="#F50057" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M39.8284271,13.3284271 C39.8284271,13.3284271 39.8284271,11.6617605 39.8284271,8.32842712" transform="rotate(-135 39.828 10.828)"/>
+    <path stroke="#F50057" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M39,20 C39,20 40.6666667,20 44,20"/>
+  </g>
+</svg>

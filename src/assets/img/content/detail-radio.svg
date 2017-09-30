@@ -1,0 +1,100 @@
+
+<svg width="1110px" height="500px" viewBox="1 1 1110 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="47" height="27" rx="1.125"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="51" height="31">
+            <rect x="-2" y="-2" width="51" height="31" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <rect id="path-3" x="-2.27373675e-13" y="0" width="28.1501832" height="54" rx="2.34375"></rect>
+        <rect id="path-5" x="-3.41060513e-13" y="0" width="37.8571429" height="72" rx="3.125"></rect>
+        <rect id="path-7" x="-3.41060513e-13" y="0" width="37.8571429" height="72" rx="3.125"></rect>
+    </defs>
+    <g id="Group-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(1.000000, 1.000000)">
+        <rect id="bg" fill="#3D5AFE" fill-rule="nonzero" x="0" y="0" width="1110" height="500"></rect>
+        <circle id="Oval" stroke="#FFFFFF" stroke-width="2" opacity="0.55" cx="555" cy="250" r="97"></circle>
+        <circle id="Oval" stroke="#FFFFFF" stroke-width="2" opacity="0.35" cx="555.5" cy="250.5" r="145.5"></circle>
+        <circle id="Oval" stroke="#FFFFFF" stroke-width="2" opacity="0.25" cx="555.5" cy="250.5" r="218.5"></circle>
+        <circle id="Oval" stroke="#FFFFFF" stroke-width="2" opacity="0.15" cx="555.5" cy="250.5" r="218.5"></circle>
+        <g id="Group-3" opacity="0.35" transform="translate(660.000000, 37.000000)" stroke="#FFFFFF" stroke-width="2">
+            <circle id="Oval-Copy" opacity="0.75" cx="67.8443936" cy="67.8443936" r="30.187643"></circle>
+            <circle id="Oval-Copy-2" opacity="0.55" cx="68" cy="68" r="45.2814645"></circle>
+            <circle id="Oval-Copy-3" opacity="0.25" cx="68" cy="68" r="68"></circle>
+        </g>
+        <g id="Group-3-Copy" opacity="0.35" transform="translate(660.000000, 315.000000)" stroke="#FFFFFF" stroke-width="2">
+            <circle id="Oval-Copy" opacity="0.75" cx="67.8443936" cy="67.8443936" r="30.187643"></circle>
+            <circle id="Oval-Copy-2" opacity="0.55" cx="68" cy="68" r="45.2814645"></circle>
+            <circle id="Oval-Copy-3" opacity="0.25" cx="68" cy="68" r="68"></circle>
+        </g>
+        <g id="Group-3-Copy-5" opacity="0.35" transform="translate(343.000000, 176.000000)" stroke="#FFFFFF" stroke-width="2">
+            <circle id="Oval-Copy" opacity="0.75" cx="67.8443936" cy="67.8443936" r="30.187643"></circle>
+            <circle id="Oval-Copy-2" opacity="0.55" cx="68" cy="68" r="45.2814645"></circle>
+            <circle id="Oval-Copy-3" opacity="0.25" cx="68" cy="68" r="68"></circle>
+        </g>
+        <g id="icon-radi" transform="translate(530.000000, 236.000000)">
+            <g id="Group-10">
+                <g id="Group-8" transform="translate(5.784000, 4.915493)"></g>
+                <g id="Group" stroke="#FFFFFF">
+                    <use id="Rectangle" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+                    <ellipse id="Oval-2" stroke-width="2" cx="33.4700122" cy="13.6901408" rx="7.52" ry="7.6056338"></ellipse>
+                    <path d="M6.392,14 L19.552,14" id="Path-2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M6.392,10 L19.552,10" id="Path-2-Copy-5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M6.392,18 L19.552,18" id="Path-2-Copy-6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+        <g id="Group-3-Copy-2" transform="translate(396.000000, 217.000000)">
+            <g id="Group-2">
+                <g id="Group" transform="translate(0.053114, 0.000000)">
+                    <g id="Rectangle-2">
+                        <g id="path-1-Clipped" transform="translate(-0.000000, 0.000000)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <g id="path-1"></g>
+                            <rect id="path-1" stroke="#FFFFFF" stroke-width="3" fill="#3D5AFE" mask="url(#mask-4)" x="-0.00312576014" y="0" width="28.1501832" height="54" rx="2.34375"></rect>
+                        </g>
+                    </g>
+                    <polygon id="Path-2" fill="#FFFFFF" fill-rule="nonzero" points="0.686589831 7.10526316 27.5216081 7.10526316 27.5216081 5.68421053 0.686589831 5.68421053"></polygon>
+                    <polygon id="Path-2-Copy" fill="#FFFFFF" fill-rule="nonzero" points="0.686589831 47.8421053 27.5216081 47.8421053 27.5216081 46.4210526 0.686589831 46.4210526"></polygon>
+                </g>
+            </g>
+        </g>
+        <g id="Group-3-Copy-3" transform="translate(708.000000, 347.000000)">
+            <g id="Group-2">
+                <g id="Group" transform="translate(0.071429, 0.000000)">
+                    <g id="Rectangle-2">
+                        <g id="path-1-Clipped" transform="translate(-0.000000, 0.000000)">
+                            <mask id="mask-6" fill="white">
+                                <use xlink:href="#path-5"></use>
+                            </mask>
+                            <g id="path-1"></g>
+                            <rect id="path-1" stroke="#FFFFFF" stroke-width="3.75" mask="url(#mask-6)" x="-3.41060513e-13" y="0" width="37.8571429" height="72" rx="3.125"></rect>
+                        </g>
+                    </g>
+                    <polygon id="Path-2" fill="#FFFFFF" fill-rule="nonzero" points="0.923344945 9.47368421 37.0118178 9.47368421 37.0118178 7.57894737 0.923344945 7.57894737"></polygon>
+                    <polygon id="Path-2-Copy" fill="#FFFFFF" fill-rule="nonzero" points="0.923344945 63.7894737 37.0118178 63.7894737 37.0118178 61.8947368 0.923344945 61.8947368"></polygon>
+                </g>
+            </g>
+        </g>
+        <g id="Group-3-Copy-4" transform="translate(708.000000, 69.000000)">
+            <g id="Group-2">
+                <g id="Group" transform="translate(0.071429, 0.000000)">
+                    <g id="Rectangle-2">
+                        <g id="path-1-Clipped" transform="translate(-0.000000, 0.000000)">
+                            <mask id="mask-8" fill="white">
+                                <use xlink:href="#path-7"></use>
+                            </mask>
+                            <g id="path-1"></g>
+                            <rect id="path-1" stroke="#FFFFFF" stroke-width="3.75" fill="#3D5AFE" mask="url(#mask-8)" x="-3.41060513e-13" y="0" width="37.8571429" height="72" rx="3.125"></rect>
+                        </g>
+                    </g>
+                    <polygon id="Path-2" fill="#FFFFFF" fill-rule="nonzero" points="0.923344945 9.47368421 37.0118178 9.47368421 37.0118178 7.57894737 0.923344945 7.57894737"></polygon>
+                    <polygon id="Path-2-Copy" fill="#FFFFFF" fill-rule="nonzero" points="0.923344945 63.7894737 37.0118178 63.7894737 37.0118178 61.8947368 0.923344945 61.8947368"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

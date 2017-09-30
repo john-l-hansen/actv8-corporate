@@ -1,0 +1,59 @@
+
+<svg width="1110px" height="500px" viewBox="-2 -2 1110 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="-3.10528204e-14" y="-1.24211282e-13" width="172.170262" height="113.876508" rx="5.859375"></rect>
+        <rect id="path-3" x="-4.96845126e-13" y="0" width="51.7291604" height="98.5630275" rx="3.90625"></rect>
+    </defs>
+    <g id="Group-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-2.000000, -2.000000)">
+        <rect id="bg" fill="#3D5AFE" fill-rule="nonzero" x="0" y="0" width="1110" height="500"></rect>
+        <g id="Group-11" transform="translate(398.000000, 179.000000)">
+            <g id="Group-9">
+                <g id="Group-8" transform="translate(0.000000, 0.965382)">
+                    <g id="Group-3" transform="translate(86.949491, 71.017309) scale(-1, 1) translate(-86.949491, -71.017309) translate(0.636146, 0.000000)">
+                        <g id="Rectangle-7">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="path-1" stroke="#FFFFFF" stroke-width="2" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="Group-2" transform="translate(51.291994, 114.637696)" stroke-width="2" stroke="#FFFFFF">
+                            <g id="Group">
+                                <g id="Group-7" transform="translate(0.000000, 0.000000)">
+                                    <path d="M39.3288808,1.24211282e-13 C39.3288808,1.24211282e-13 39.4050525,9.88657916 42.4791081,16.7323052 C44.1069752,20.3574616 48.2085893,25.1826998 51.9516805,25.1826998" id="Path-35-Copy"></path>
+                                    <path d="M30.402219,1.24211282e-13 C30.402219,1.24211282e-13 30.3260473,9.88657916 27.2519917,16.7323052 C25.6241246,20.3574616 21.0119493,25.1370869 17.2688582,25.1370869" id="Path-35-Copy-2"></path>
+                                    <path d="M0.0570316512,25.1292017 L69.5292427,25.1292017" id="Path-34-Copy-2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-3-Copy-2" transform="translate(261.276375, 8.780499)">
+                    <g id="Group-2" transform="translate(0.000000, -0.000000)">
+                        <g id="Group" transform="translate(0.097602, 0.000000)">
+                            <g id="Rectangle-2">
+                                <g id="path-1-Clipped" transform="translate(-0.000000, 0.000000)">
+                                    <mask id="mask-4" fill="white">
+                                        <use xlink:href="#path-3"></use>
+                                    </mask>
+                                    <g id="path-1"></g>
+                                    <rect id="path-1" stroke="#FFFFFF" stroke-width="4" mask="url(#mask-4)" x="0.00247678768" y="0" width="51.7291604" height="98.5630275" rx="3.90625"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-7-Copy-3" opacity="0.5" transform="translate(218.202543, 58.922183) rotate(-270.000000) translate(-218.202543, -58.922183) translate(186.517898, 42.422183)" stroke-linecap="round" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round">
+                    <g id="Group-5" transform="translate(31.989735, 16.432502) rotate(90.000000) translate(-31.989735, -16.432502) translate(14.508551, -12.067498)">
+                        <path d="M34.8559142,15.3301038 C34.8559142,15.3301038 25.38035,26.5315805 34.8559142,40.1830629" id="Path-5" opacity="0.25"></path>
+                        <path d="M22.4879687,9.58131488 C22.4879687,9.58131488 8.73102282,26.4230525 22.4879687,46.9484429" id="Path-5-Copy" opacity="0.5"></path>
+                        <path d="M10.2620631,1.42108547e-14 C10.2620631,1.42108547e-14 -10.3733557,25.4785261 10.2620631,56.5297578" id="Path-5-Copy-2"></path>
+                    </g>
+                </g>
+                <path d="M262.217757,93 L312.626272,93" id="Path-4" stroke="#FFFFFF" stroke-width="2"></path>
+                <path d="M262.217757,20 L312.626272,20" id="Path-4-Copy" stroke="#FFFFFF" stroke-width="2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

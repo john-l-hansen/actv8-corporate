@@ -1,0 +1,131 @@
+
+<svg width="1110px" height="500px" viewBox="0 0 1110 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="37.8571429" height="72" rx="3.125"></rect>
+        <rect id="path-3" x="0" y="0" width="37.8571429" height="72" rx="3.125"></rect>
+        <rect id="path-5" x="0" y="0" width="37.8571429" height="72" rx="3.125"></rect>
+        <rect id="path-7" x="0" y="0" width="37.8571429" height="72" rx="3.125"></rect>
+        <rect id="path-9" x="0" y="0" width="37.8571429" height="72" rx="3.125"></rect>
+        <rect id="path-11" x="0" y="0" width="37.8571429" height="72" rx="3.125"></rect>
+    </defs>
+    <g id="detail-in-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="bg" fill="#3D5AFE" fill-rule="nonzero" x="0" y="0" width="1110" height="500"></rect>
+        <g id="illustration" transform="translate(379.000000, 49.000000)">
+            <g id="Group-4">
+                <g id="Group-2" transform="translate(0.000000, 71.000000)">
+                    <g id="Group" transform="translate(0.071429, 0.000000)">
+                        <g id="Rectangle-2">
+                            <g id="path-1-Clipped">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="path-1"></g>
+                                <rect id="path-1" stroke="#FFFFFF" stroke-width="3.75" mask="url(#mask-2)" x="0" y="0" width="37.8571429" height="72" rx="3.125"></rect>
+                            </g>
+                        </g>
+                        <polygon id="Path-2" fill="#FFFFFF" fill-rule="nonzero" points="0.923344945 9.47368421 37.0118178 9.47368421 37.0118178 7.57894737 0.923344945 7.57894737"></polygon>
+                        <polygon id="Path-2-Copy" fill="#FFFFFF" fill-rule="nonzero" points="0.923344945 63.7894737 37.0118178 63.7894737 37.0118178 61.8947368 0.923344945 61.8947368"></polygon>
+                    </g>
+                </g>
+                <g id="Group-2-Copy-2" transform="translate(314.000000, 71.000000)">
+                    <g id="Group" transform="translate(0.071429, 0.000000)">
+                        <g id="Rectangle-2">
+                            <g id="path-1-Clipped">
+                                <mask id="mask-4" fill="white">
+                                    <use xlink:href="#path-3"></use>
+                                </mask>
+                                <g id="path-1"></g>
+                                <rect id="path-1" stroke="#FFFFFF" stroke-width="3.75" mask="url(#mask-4)" x="0" y="0" width="37.8571429" height="72" rx="3.125"></rect>
+                            </g>
+                        </g>
+                        <polygon id="Path-2" fill="#FFFFFF" fill-rule="nonzero" points="0.923344945 9.47368421 37.0118178 9.47368421 37.0118178 7.57894737 0.923344945 7.57894737"></polygon>
+                        <polygon id="Path-2-Copy" fill="#FFFFFF" fill-rule="nonzero" points="0.923344945 63.7894737 37.0118178 63.7894737 37.0118178 61.8947368 0.923344945 61.8947368"></polygon>
+                    </g>
+                </g>
+                <circle id="Oval" stroke="#FFFFFF" stroke-width="2" cx="176.5" cy="197.5" r="33.5"></circle>
+                <path d="M307.380067,171.234658 L216,110" id="Path-2-Copy" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,12" opacity="0.5" transform="translate(261.690033, 140.617329) scale(-1, 1) translate(-261.690033, -140.617329) "></path>
+                <path d="M137.380067,171.234658 L46,110" id="Path-2-Copy-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,12" opacity="0.5"></path>
+                <g id="Group-6" transform="translate(156.000000, 0.000000)">
+                    <g id="Group-5" transform="translate(19.500000, 75.000000) rotate(-180.000000) translate(-19.500000, -75.000000) ">
+                        <g id="Group-4-Copy" transform="translate(-0.000000, 0.000000)">
+                            <g id="Group-2-Copy-4" transform="translate(0.000000, 78.000000)">
+                                <g id="Group" transform="translate(0.071429, 0.000000)">
+                                    <g id="Rectangle-2">
+                                        <g id="path-1-Clipped">
+                                            <mask id="mask-6" fill="white">
+                                                <use xlink:href="#path-5"></use>
+                                            </mask>
+                                            <g id="path-1"></g>
+                                            <rect id="path-1" stroke="#FFFFFF" stroke-width="3.75" mask="url(#mask-6)" x="0" y="0" width="37.8571429" height="72" rx="3.125"></rect>
+                                        </g>
+                                    </g>
+                                    <polygon id="Path-2" fill="#FFFFFF" fill-rule="nonzero" points="0.923344945 9.47368421 37.0118178 9.47368421 37.0118178 7.57894737 0.923344945 7.57894737"></polygon>
+                                    <polygon id="Path-2-Copy" fill="#FFFFFF" fill-rule="nonzero" points="0.923344945 63.7894737 37.0118178 63.7894737 37.0118178 61.8947368 0.923344945 61.8947368"></polygon>
+                                </g>
+                            </g>
+                            <path d="M18,0 L18,66.0247179" id="Path-3" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,12" opacity="0.5"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-3" transform="translate(176.000000, 313.000000) rotate(-180.000000) translate(-176.000000, -313.000000) translate(0.000000, 227.000000)">
+                    <g id="Group-2-Copy" transform="translate(0.000000, 71.000000)">
+                        <g id="Group" transform="translate(0.071429, 0.000000)">
+                            <g id="Rectangle-2">
+                                <g id="path-1-Clipped">
+                                    <mask id="mask-8" fill="white">
+                                        <use xlink:href="#path-7"></use>
+                                    </mask>
+                                    <g id="path-1"></g>
+                                    <rect id="path-1" stroke="#FFFFFF" stroke-width="3.75" mask="url(#mask-8)" x="0" y="0" width="37.8571429" height="72" rx="3.125"></rect>
+                                </g>
+                            </g>
+                            <polygon id="Path-2" fill="#FFFFFF" fill-rule="nonzero" points="0.923344945 9.47368421 37.0118178 9.47368421 37.0118178 7.57894737 0.923344945 7.57894737"></polygon>
+                            <polygon id="Path-2-Copy" fill="#FFFFFF" fill-rule="nonzero" points="0.923344945 63.7894737 37.0118178 63.7894737 37.0118178 61.8947368 0.923344945 61.8947368"></polygon>
+                        </g>
+                    </g>
+                    <g id="Group-2-Copy-3" transform="translate(314.000000, 71.000000)">
+                        <g id="Group" transform="translate(0.071429, 0.000000)">
+                            <g id="Rectangle-2">
+                                <g id="path-1-Clipped">
+                                    <mask id="mask-10" fill="white">
+                                        <use xlink:href="#path-9"></use>
+                                    </mask>
+                                    <g id="path-1"></g>
+                                    <rect id="path-1" stroke="#FFFFFF" stroke-width="3.75" mask="url(#mask-10)" x="0" y="0" width="37.8571429" height="72" rx="3.125"></rect>
+                                </g>
+                            </g>
+                            <polygon id="Path-2" fill="#FFFFFF" fill-rule="nonzero" points="0.923344945 9.47368421 37.0118178 9.47368421 37.0118178 7.57894737 0.923344945 7.57894737"></polygon>
+                            <polygon id="Path-2-Copy" fill="#FFFFFF" fill-rule="nonzero" points="0.923344945 63.7894737 37.0118178 63.7894737 37.0118178 61.8947368 0.923344945 61.8947368"></polygon>
+                        </g>
+                    </g>
+                    <path d="M307.380067,171.234658 L216,110" id="Path-2-Copy-3" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,12" opacity="0.5" transform="translate(261.690033, 140.617329) scale(-1, 1) translate(-261.690033, -140.617329) "></path>
+                    <path d="M137.380067,171.234658 L46,110" id="Path-2-Copy-4" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,12" opacity="0.5"></path>
+                    <g id="Group-6-Copy" transform="translate(156.000000, -0.000000)">
+                        <g id="Group-5" transform="translate(19.500000, 75.000000) rotate(-180.000000) translate(-19.500000, -75.000000) ">
+                            <g id="Group-4-Copy" transform="translate(-0.000000, -0.000000)">
+                                <g id="Group-2-Copy-4" transform="translate(-0.000000, 78.000000)">
+                                    <g id="Group" transform="translate(0.071429, 0.000000)">
+                                        <g id="Rectangle-2">
+                                            <g id="path-1-Clipped">
+                                                <mask id="mask-12" fill="white">
+                                                    <use xlink:href="#path-11"></use>
+                                                </mask>
+                                                <g id="path-1"></g>
+                                                <rect id="path-1" stroke="#FFFFFF" stroke-width="3.75" mask="url(#mask-12)" x="0" y="0" width="37.8571429" height="72" rx="3.125"></rect>
+                                            </g>
+                                        </g>
+                                        <polygon id="Path-2" fill="#FFFFFF" fill-rule="nonzero" points="0.923344945 9.47368421 37.0118178 9.47368421 37.0118178 7.57894737 0.923344945 7.57894737"></polygon>
+                                        <polygon id="Path-2-Copy" fill="#FFFFFF" fill-rule="nonzero" points="0.923344945 63.7894737 37.0118178 63.7894737 37.0118178 61.8947368 0.923344945 61.8947368"></polygon>
+                                    </g>
+                                </g>
+                                <path d="M19,-2.84217094e-14 L19,66.0247179" id="Path-3" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,12" opacity="0.5"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

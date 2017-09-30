@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="800" viewBox="0 0 2000 800">
+  <defs>
+    <linearGradient id="bg-warm-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#F50057"/>
+      <stop offset="100%" stop-color="#FF0"/>
+    </linearGradient>
+  </defs>
+  <polygon fill="url(#bg-warm-a)" fill-rule="evenodd" points="0 0 2000 0 2000 659.943 1000 800 0 659.943"/>
+</svg>
