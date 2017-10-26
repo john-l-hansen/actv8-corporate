@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="550" height="250" viewBox="0 0 550 250">
+  <defs>
+    <rect id="icon-card-audio-triggers-a" width="550" height="250"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(0 -58)">
+    <g transform="translate(0 58)">
+      <use fill="#000" fill-rule="nonzero" xlink:href="#icon-card-audio-triggers-a"/>
+      <g stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" transform="translate(193 96)">
+        <path d="M33.132704 16C33.132704 16 23.83412 27.6909598 33.132704 41.9389858M21 10C21 10 7.5 27.5776893 21 49M9 0C9 0-11.25 26.5918889 9 59"/>
+      </g>
+      <g stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" transform="matrix(-1 0 0 1 357 96)">
+        <path d="M33.132704 16C33.132704 16 23.83412 27.6909598 33.132704 41.9389858M21 10C21 10 7.5 27.5776893 21 49M9 0C9 0-11.25 26.5918889 9 59"/>
+      </g>
+      <g transform="translate(257 107)">
+        <circle cx="18" cy="18" r="18" stroke="#FFF" stroke-width="3"/>
+        <circle cx="18" cy="18" r="6" fill="#FFF"/>
+      </g>
+    </g>
+  </g>
+</svg>

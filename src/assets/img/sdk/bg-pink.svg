@@ -1,3 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1796" viewBox="0 0 2000 1796">
-  <path fill="#F50057" fill-rule="evenodd" d="M2000,967.730469 L2000,1795.40394 L1000,1657.1875 L-1.7744941e-13,1795.40394 L2.52721226e-14,967.730469 L2.27373675e-13,140.057 L1000,0 L2000,140.057 L2000,967.730469 Z" transform="rotate(-180 1000 898)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="2491" height="2226" style="background:#fff" viewBox="0 0 2491 2226">
+  <defs>
+    <linearGradient id="bg-pink-a" x1="50%" x2="50%" y1="0%" y2="96.429%">
+      <stop offset="0%" stop-color="#F50057"/>
+      <stop offset="100%" stop-color="#FF0"/>
+    </linearGradient>
+    <filter id="bg-pink-b" width="152.3%" height="152.3%" x="-26.2%" y="-26.2%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="15"/>
+    </filter>
+    <linearGradient id="bg-pink-c" x1="50%" x2="50%" y1="0%" y2="96.429%">
+      <stop offset="0%" stop-color="#F50057"/>
+      <stop offset="98.428%" stop-color="#FF0"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="1573" cy="2083" r="86" fill="url(#bg-pink-a)" filter="url(#bg-pink-b)"/>
+    <polygon fill="#F50057" points="1665 692 1665 1384 0 1384 0 692 0 0 1665 0" transform="rotate(-180 1245.5 970.5)"/>
+    <circle cx="508" cy="1192" r="508" fill="url(#bg-pink-c)"/>
+    <circle cx="2061.5" cy="1884.5" r="341.5" fill="url(#bg-pink-a)"/>
+  </g>
 </svg>

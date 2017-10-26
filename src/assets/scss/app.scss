@@ -80,8 +80,8 @@ $transition-out: 250ms ease-in;
 
 // Typography // --------------------------------------------------
 
-$headline: "Poppins", "Helvetica Neue", Helvetica, sans-serif;
-$open-sans: "Poppins", "Helvetica Neue", Helvetica, sans-serif;
+$headline: 'Muli', sans-serif;
+$open-sans: 'Open Sans', sans-serif;
 
 body {
   background-color: white;
@@ -90,7 +90,6 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $headline;
-  font-weight: 700;
 }
 
 p {
@@ -136,11 +135,11 @@ a {
 }
 
 .warm-gradient {
-// background: linear-gradient(-180deg, #F50057 20%, #FFFF00 120%);
+background: linear-gradient(-180deg, #F50057 20%, #FFFF00 120%);
   background-image: url('/assets/img/sdk/bg-warm.svg');
   background-size: cover;
   background-position: center;
-  height: 50rem;
+  height: 55rem;
   width: 100%;
   h1, h2, h3 {
     color: $primary-white;
@@ -267,7 +266,7 @@ a {
   background-color: rgba(255,255,255, 0);
   border: 2px white solid;
   display: inline-block;
-  font-weight: 700;  
+  font-weight: 500;  
   vertical-align: middle;
   margin: 0 0 1rem 0;
   padding: 1.75em 5.5em;
@@ -294,7 +293,7 @@ a {
   background-color: rgba(255,255,255, 0);
   border: 2px white solid;
   display: inline-block;
-  font-weight: 700;  
+  font-weight: 500;  
   vertical-align: middle;
   margin: 0 0 1rem 0;
   padding: 1.75em 5.5em;
@@ -788,6 +787,10 @@ a {
   padding-bottom: 9.5rem
 }
 
+.pad-all-small {
+  padding: 5rem;
+}
+
 .pad-top-small {
   padding-top: 5rem;
 }
@@ -816,12 +819,24 @@ a {
   margin-top: 2.5rem;
 }
 
+.margin-all-small {
+  margin: 5rem;
+}
+
 .margin-top-small {
   margin-top: 5rem;
 }
 
+.margin-right-small {
+  margin-right: 5rem;
+}
+
 .margin-bot-small {
   margin-bottom: 5rem;
+}
+
+.margin-bot-left {
+  margin-left: 5rem;
 }
 
 .margin-bot-xs {
@@ -1282,4 +1297,17 @@ footer {
 
 .os-support-logo {
   height: 3.25rem;
+}
+
+.quote-title {
+  font-size: 1.25rem;
+}
+
+sdk-footer {
+  background-color: black;
+  height: 3rem;
+}
+
+.bg-gray {
+  background-color: $grayDisabled;
 }

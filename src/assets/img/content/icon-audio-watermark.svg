@@ -1,14 +1,8 @@
-
-<svg width="43px" height="32px" viewBox="-14302 -9366 43 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="icon-audio-watermark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-14300.000000, -9364.000000)">
-        <g id="icon-audio-watermarking">
-            <g></g>
-        </g>
-        <path d="M0,2.40137647 C0,2.40137647 3.67803297,8.87459076 18.6088546,2.40137647 C33.5396762,-4.07183781 39.3049955,4.59215493 39.3049955,4.59215493" id="Path-1163" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-        <path d="M0,14.4013765 C0,14.4013765 3.67803297,20.8745908 18.6088546,14.4013765 C33.5396762,7.92816219 39.3049955,16.5921549 39.3049955,16.5921549" id="Path-1163-Copy" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-        <path d="M0,25.4013765 C0,25.4013765 3.67803297,31.8745908 18.6088546,25.4013765 C33.5396762,18.9281622 39.3049955,27.5921549 39.3049955,27.5921549" id="Path-1163-Copy-2" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g fill="none" fill-rule="evenodd">
+    <g stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" transform="translate(4 10)">
+      <path d="M0 2.40137647C0 2.40137647 3.67803297 8.87459076 18.6088546 2.40137647 33.5396762-4.07183781 39.3049955 4.59215493 39.3049955 4.59215493M0 14.4013765C0 14.4013765 3.67803297 20.8745908 18.6088546 14.4013765 33.5396762 7.92816219 39.3049955 16.5921549 39.3049955 16.5921549M0 25.4013765C0 25.4013765 3.67803297 31.8745908 18.6088546 25.4013765 33.5396762 18.9281622 39.3049955 27.5921549 39.3049955 27.5921549"/>
     </g>
+    <rect width="48" height="48" fill="none"/>
+  </g>
 </svg>

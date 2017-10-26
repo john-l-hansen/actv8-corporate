@@ -1,15 +1,17 @@
-
-<svg width="49px" height="49px" viewBox="-14029 -9380 49 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <circle id="path-1" cx="22.5" cy="22.5" r="8.5"></circle>
-        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="17" height="17" fill="white">
-            <use xlink:href="#path-1"></use>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <circle id="icon-geo-fence-a" cx="8.311" cy="8.311" r="8.311"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(2 2)">
+      <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M0,25.4232026 C1.65422364,35.9476856 10.8144743,44 21.8668281,44 C26.5538097,44 30.9005228,42.551903 34.4788312,40.0812692 M40.0635216,34.5275663 C42.5454713,30.9724155 44,26.6550474 44,22 C44,17.1537351 42.4235203,12.6734613 39.7524937,9.03821173 M34.050878,3.63054116 C30.5563193,1.33586666 26.3685222,0 21.8668281,0 C11.1596485,0 2.22823376,7.5572072 0.176780725,17.5981358"/>
+      <g transform="translate(13.689 13.689)">
+        <mask id="icon-geo-fence-b" fill="#fff">
+          <use xlink:href="#icon-geo-fence-a"/>
         </mask>
-    </defs>
-    <g id="icon-geo-fence" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-14027.000000, -9378.000000)">
-        <path d="M0,26.0010027 C1.69181963,36.7646785 11.0602578,45 22.3638015,45 C27.1573054,45 31.6028074,43.5189917 35.262441,40.9922071 M40.9740562,35.3122837 C43.5124138,31.676334 45,27.2608439 45,22.5 C45,17.5435927 43.3876912,12.9614945 40.6559595,9.24362563 M34.8247616,3.71305346 C31.2507811,1.36622727 26.9678068,0 22.3638015,0 C11.4132769,0 2.27887544,7.72896191 0.180798469,17.9980934" id="outer-circle" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-        <use id="Oval-Copy-4" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="6" xlink:href="#path-1"></use>
+        <circle cx="8.311" cy="8.311" r="8.311" stroke="#FFF" stroke-width="6" mask="url(#icon-geo-fence-b)"/>
+      </g>
     </g>
+    <rect width="48" height="48" fill="none"/>
+  </g>
 </svg>

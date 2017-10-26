@@ -1,9 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="800" viewBox="0 0 2000 800">
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="714" viewBox="0 0 2000 714">
   <defs>
-    <linearGradient id="bg-warm-a" x1="50%" x2="50%" y1="0%" y2="100%">
+    <linearGradient id="bg-warm-a" x1="50%" x2="50%" y1="63.925%" y2="100%">
       <stop offset="0%" stop-color="#F50057"/>
       <stop offset="100%" stop-color="#FF0"/>
     </linearGradient>
+    <linearGradient id="bg-warm-b" x1="50%" x2="50%" y1="39.245%" y2="100%">
+      <stop offset="0%" stop-color="#F50057"/>
+      <stop offset="100%" stop-color="#FF0"/>
+    </linearGradient>
+    <linearGradient id="bg-warm-c" x1="50%" x2="50%" y1="0%" y2="96.429%">
+      <stop offset="0%" stop-color="#F50057"/>
+      <stop offset="98.428%" stop-color="#FF0"/>
+    </linearGradient>
+    <linearGradient id="bg-warm-d" x1="50%" x2="50%" y1="0%" y2="96.429%">
+      <stop offset="0%" stop-color="#F50057"/>
+      <stop offset="100%" stop-color="#FF0"/>
+    </linearGradient>
+    <filter id="bg-warm-e" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic"/>
+    </filter>
   </defs>
-  <polygon fill="url(#bg-warm-a)" fill-rule="evenodd" points="0 0 2000 0 2000 659.943 1000 800 0 659.943"/>
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="url(#bg-warm-a)" points="0 49 2000 49 2000 597.578 1000 714 0 597.578"/>
+    <polygon fill="url(#bg-warm-b)" points="0 0 2000 0 2000 548.578 1000 665 0 548.578"/>
+    <circle cx="687" cy="308" r="124" fill="url(#bg-warm-c)"/>
+    <circle cx="1482.5" cy="485.5" r="24.5" fill="url(#bg-warm-d)"/>
+    <circle cx="1291" cy="680" r="8" fill="url(#bg-warm-d)" filter="url(#bg-warm-e)"/>
+  </g>
 </svg>
