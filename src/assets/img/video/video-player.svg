@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1275" height="875" viewBox="0 0 1275 875">
+  <defs>
+    <linearGradient id="video-player-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#3D5AFE"/>
+      <stop offset="100%" stop-color="#18FFFF"/>
+    </linearGradient>
+    <rect id="video-player-b" width="1200" height="800" rx="3"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(38 38)">
+    <use fill="url(#video-player-a)" xlink:href="#video-player-b"/>
+    <rect width="1170" height="770" x="15" y="15" stroke="#FFF" stroke-width="30" rx="3"/>
+    <g fill="#FFF" transform="translate(520 320)">
+      <path d="M80,160 C35.8172199,160 0,124.18278 0,80 C0,35.8172199 35.8172199,0 80,0 C124.18278,0 160,35.8172199 160,80 C160,124.18278 124.18278,160 80,160 Z M64,51.2 L64,109.376001 L111.991447,80.2898314 L64,51.2 Z"/>
+    </g>
+  </g>
+</svg>
